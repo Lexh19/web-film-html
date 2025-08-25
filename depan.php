@@ -7,6 +7,7 @@
     <h1>Welcome to Cinema 19</h1>
     
   </header>
+
 </head>
   <body>
           <div class="container">
